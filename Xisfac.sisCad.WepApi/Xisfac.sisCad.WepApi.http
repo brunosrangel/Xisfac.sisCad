@@ -1,0 +1,6 @@
+@Xisfac.sisCad.WepApi_HostAddress = http://localhost:5231
+
+GET {{Xisfac.sisCad.WepApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
